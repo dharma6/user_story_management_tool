@@ -1,0 +1,4 @@
+Grade: 90
+
+Overall I think your team did a decent project and you obviously put in good effort. Your documentation is decent, too. One thing during the sprint demos that kept coming up, I felt, was what your project was focused on -- it seemed to switch between defining and managing user stories, and defining and running project tasks (but calling them user stories). I encouraged but didn't really feel like your team took the time to really go learn in depth about user stories and how a tool might help manage them (and not the project). So my one future suggestion would be to really know your problem domain -- this is not something that can be skipped -- and know the problem domain's terminology so that you are using it correctly.
+
